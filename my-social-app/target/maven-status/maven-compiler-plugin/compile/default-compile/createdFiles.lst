@@ -1,0 +1,3 @@
+com\mycompany\mysocialapp\controller\SocialController.class
+com\mycompany\mysocialapp\MySocialAppApplication.class
+com\mycompany\mysocialapp\security\SecurityConfig.class
